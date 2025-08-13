@@ -8,5 +8,8 @@ public class Operator {
         a += 4;
         System.out.println(a==b);
         System.out.println(a<b);
+
+        System.out.println(5<<1);   // 101 -> 1010
+        System.out.println(5>>1);   // 101 -> 010
     }
 }
