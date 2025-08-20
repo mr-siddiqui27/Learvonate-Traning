@@ -11,15 +11,15 @@ It is created for **revision and practice** so that everyone can learn together 
 ## 📂 Repository Structure
 Java_Basics/ → Java fundamentals (OOPs, Exception Handling, File Handling, etc.)
 DSA/ → Data structures & algorithms
-├── Arrays
-├── Strings
-├── Recursion
-├── Linked List
-├── Stack
-├── Queue
-├── Trees
-├── Graphs
-└── Sorting & Searching
+Arrays
+Strings
+Recursion
+Linked List
+Stack
+Queue
+Trees
+Graphs
+Sorting & Searching
 Practice_Problems/ → Extra problems for revision & interview prep
 
 
