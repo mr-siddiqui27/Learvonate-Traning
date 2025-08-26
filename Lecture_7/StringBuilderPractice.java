@@ -6,5 +6,8 @@ public class StringBuilderPractice {
         sb.append(" Vaishu");
         System.out.println(sb);
 
+        sb.deleteCharAt(5);
+        System.out.println(sb);
+
     }
 }
